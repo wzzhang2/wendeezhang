@@ -1,4 +1,4 @@
-```yaml
+
 ---
 layout: about
 title: about
