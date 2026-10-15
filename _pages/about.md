@@ -1,4 +1,3 @@
-
 ---
 layout: about
 title: about
@@ -13,11 +12,11 @@ profile:
   image_circular: false
   more_info: >
     <p><a href="https://profiles.waikato.ac.nz/wendee.zhang">University of Waikato</a></p>
-    <p><a href="https://scholar.google.com/citations?user=RbZZanAAAAAJ">Google Scholar</a></p>
+    <p><a href="https://scholar.google.com/citations?user=RbZZanAAAAAJ&hl=en">Google Scholar</a></p>
     <p>New Zealand</p>
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: false
@@ -50,5 +49,4 @@ My work brings together perspectives from environmental planning, urban geograph
 
 **[University of Waikato Profile](https://profiles.waikato.ac.nz/wendee.zhang)**
 
-**[Google Scholar](https://scholar.google.com/citations?user=RbZZanAAAAAJ)**
-```
+**[Google Scholar](https://scholar.google.com/citations?user=RbZZanAAAAAJ&hl=en)**
